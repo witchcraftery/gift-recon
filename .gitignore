@@ -8,3 +8,6 @@ node_modules/
 Gifting Recon/
 *.private.md
 .env
+# hero source files (kept outside the repo)
+assets/bg.png
+assets/hero.html
