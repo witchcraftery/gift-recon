@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+node_modules/
+# personal gift research outputs, never commit
+Gifting Recon/
+*.private.md
+.env
